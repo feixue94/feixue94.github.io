@@ -25,28 +25,29 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/anicode.jpg" width="200px"/>
+		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Natallia Trayan, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
-		AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations<br>
-		<i>The Visual Computer</i>, 2019<br>
-		<a href="https://www.researchgate.net/publication/332972892_AniCode_Authoring_Coded_Artifacts_for_Network-Free_Personalized_Animations">[pdf]</a>
+		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
+		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
+		<i>CVPR</i>, 2019<br>
+		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
 		<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
 		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
 		<a onclick="copyBibTeX(8)">[bibtex]</a>
+		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/cherob.jpg" width="200px"/>
+		<img src="assets/images/guidedfeature.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Weiqi Shi, Kiraz Akoglu, Eleni Kotoula, Ying Yang, Holly Rushmeier<br>
-		CHER-Ob: A Tool for Shared Analysis and Video Dissemination<br>
-		<i>ACM Journal on Computing and Cultural Heritage (JOCCH)</i>, 2018<br>
-		<a href="https://www.researchgate.net/publication/325253431_CHER-Ob_A_Tool_for_Shared_Analysis_and_Video_Dissemination">[pdf]</a>
+		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
+		Guided Feature Selection for Deep Visual Odometry<br>
+		<i>ACCV</i>, 2018<br>
+		<a href="https://arxiv.org/pdf/1811.09935.pdf">[pdf]</a>
 		<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
 		<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
 		<a onclick="copyBibTeX(7)">[bibtex]</a>
@@ -57,38 +58,11 @@ layout: page_no_title
 		<img src="assets/images/cherob2.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Kiraz Akoglu, Holly Rushmeier<br>
-		An Introductory Video Generator for Disseminating Cultural Heritage Projects<br>
-		<i>Eurographics Workshop on Graphics and Cultural Heritage (EG GCH)</i>, 2017<br>
+		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
+		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
+		<i>ACCV</i>, 2017<br>
 		<a href="https://www.researchgate.net/publication/318888522_An_Introductory_Video_Generator_for_Disseminating_Cultural_Heritage_Projects">[pdf]</a>
 		<a onclick="copyBibTeX(6)">[bibtex]</a>
-		<span style="color:red">Best Paper Award</span>
-	</td>
-</tr>
-<tr style="border:0px">
-	<td style="border:0px">
-		<img src="assets/images/armaterial.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		Weiqi Shi, <b>Zeyu Wang</b>, Metin Sezgin, Julie Dorsey, Holly Rushmeier<br>
-		Material Design in Augmented Reality with In-Situ Visual Feedback<br>
-		<i>Eurographics Symposium on Rendering (EGSR)</i>, 2017<br>
-		<a href="https://www.researchgate.net/publication/316974634_Material_Design_in_Augmented_Reality_with_In-Situ_Visual_Feedback">[pdf]</a>
-		<a onclick="copyBibTeX(5)">[bibtex]</a>
-	</td>
-</tr>
-<tr style="border:0px">
-	<td style="border:0px">
-		<img src="assets/images/longmen.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		<b>Zeyu Wang</b>, Xiaohan Jin, Dian Shao, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
-		Digital Longmen Project: A Free Walking VR System with Image-Based Restoration<br>
-		<i>Asian Conference on Computer Vision (ACCV) Workshop on e-Heritage</i>, 2016<br>
-		<a href="https://www.researchgate.net/publication/308340283_Digital_Longmen_Project_A_Free_Walking_VR_System_with_Image-based_Restoration">[pdf]</a>
-		<a href="https://youtu.be/x_hPkkbz0o0">[seminar]</a>
-		<a href="https://youtu.be/zbYUtkQ9vQ4">[video]</a>
-		<a onclick="copyBibTeX(4)">[bibtex]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -96,7 +70,7 @@ layout: page_no_title
 		<img src="assets/images/horopter.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
+		Zeyu Wang, Xiaohan Jin, <b>Fei Xue</b>, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
 		Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency<br>
 		<i>ACM Conference on Virtual Reality Software and Technology (VRST)</i>, 2016<br>
 		<a href="https://www.researchgate.net/publication/308794549_Perceptual_Enhancement_for_Stereoscopic_Videos_Based_on_Horopter_Consistency">[pdf]</a>
@@ -106,23 +80,10 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/robio.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		<b>Zeyu Wang</b>, James K. Min, Guanglei Xiong<br>
-		Robotics-Driven Printing of Curved 3D Structures for Manufacturing Cardiac Therapeutic Devices<br>
-		<i>IEEE International Conference on Robotics and Biomimetics (ROBIO)</i>, 2015<br>
-		<a href="https://www.researchgate.net/publication/282360663_Robotics-driven_Printing_of_Curved_3D_Structures_for_Manufacturing_Cardiac_Therapeutic_Devices">[pdf]</a>
-		<a href="https://youtu.be/JEqd8QHtf0Q">[video]</a>
-		<a onclick="copyBibTeX(2)">[bibtex]</a>
-	</td>
-</tr>
-<tr style="border:0px">
-	<td style="border:0px">
 		<img src="assets/images/panorama.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Xin He, Renju Li, Hongbin Zha<br>
+		Zeyu Wang, Xiaohan Jin, <b>Fei Xue</b>, Xin He, Renju Li, Hongbin Zha<br>
 		Panorama to Cube: A Content-Aware Representation Method<br>
 		<i>ACM SIGGRAPH Asia Technical Briefs</i>, 2015<br>
 		<a href="https://www.researchgate.net/publication/281589647_Panorama_to_Cube_A_Content-Aware_Representation_Method">[pdf]</a>
