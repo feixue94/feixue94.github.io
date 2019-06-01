@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/fei.jpg" width="300px"/>
+		<img src="assets/images/zach.jpg" width="600px"/>
 	</td>
 	<td style="border:0px">
 		I am a master student in computer vision at Key Laboratory of Machine Perception, Peking University. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br><br>
@@ -23,7 +23,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/beyondtracking.jpg" width="200px"/>
+		<img src="assets/images/anicode.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
@@ -38,7 +38,7 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/guidedfeature.JPG" width="200px"/>
+		<img src="assets/images/anicode.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
@@ -51,7 +51,7 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/continuoustime.jpg" width="200px"/>
+		<img src="assets/images/anicode.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
