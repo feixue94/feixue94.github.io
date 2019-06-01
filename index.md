@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/fei.jpg" width="400px"/>
+		<img src="assets/images/fei.jpg" width="600px"/>
 	</td>
 	<td style="border:0px">
 		I am a master student in computer vision at Key Laboratory of Machine Perception, Peking University. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br><br>
