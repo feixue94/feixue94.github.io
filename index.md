@@ -10,8 +10,8 @@ layout: page_no_title
 		<img src="assets/images/fei.jpg" width="400px"/>
 	</td>
 	<td style="border:0px">
-		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
-		Before coming to Yale, I received the B.S. degree (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
+		I am a master student in computer vision at Key Laboratory of Machine Perception, Peking University. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br><br>
+		Before that, I received the B.S. degree in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception, Peking University]</a><br>
 		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a>
 	</td>
@@ -33,7 +33,6 @@ layout: page_no_title
 		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
 		<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
 		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
-		<a onclick="copyBibTeX(8)">[bibtex]</a>
 		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
@@ -48,7 +47,6 @@ layout: page_no_title
 		<a href="https://arxiv.org/pdf/1811.09935.pdf">[pdf]</a>
 		<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
 		<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
-		<a onclick="copyBibTeX(7)">[bibtex]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -59,8 +57,7 @@ layout: page_no_title
 		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
 		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
 		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
-		<a href="https://www.researchgate.net/publication/318888522_An_Introductory_Video_Generator_for_Disseminating_Cultural_Heritage_Projects">[pdf]</a>
-		<a onclick="copyBibTeX(6)">[bibtex]</a>
+		<a href="https://www.researchgate.net/publication/332103736_Continuous-time_Stereo_Visual_Odometry_Based_on_Dynamics_Model">[pdf]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -73,7 +70,6 @@ layout: page_no_title
 		<i>ACM Conference on Virtual Reality Software and Technology (VRST)</i>, 2016<br>
 		<a href="https://www.researchgate.net/publication/308794549_Perceptual_Enhancement_for_Stereoscopic_Videos_Based_on_Horopter_Consistency">[pdf]</a>
 		<a href="https://youtu.be/EMN9zlDqXlM">[video]</a>
-		<a onclick="copyBibTeX(3)">[bibtex]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -87,7 +83,6 @@ layout: page_no_title
 		<a href="https://www.researchgate.net/publication/281589647_Panorama_to_Cube_A_Content-Aware_Representation_Method">[pdf]</a>
 		<a href="https://youtu.be/wJy2ZAhunP0">[video]</a>
 		<a href="https://github.com/zachzeyuwang/Panorama-to-Cube">[code]</a>
-		<a onclick="copyBibTeX(1)">[bibtex]</a>
 	</td>
 </tr>
 </table>
