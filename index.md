@@ -41,7 +41,7 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/guidedfeature.jpg" width="200px"/>
+		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
