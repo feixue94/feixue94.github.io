@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fei Xue
-email: feixue [at] pku.edu.cn
-description: I am a master student in computer vision at Key Laboratory of Machine Perception, Peking University. My research interests include SLAM, visual odometry, relocalization, and visual perception. Before that, I received the B.S. degree in machine intelligence from School of EECS, Peking University in 2016.
+title: Zach Zeyu Wang
+email: zeyu.wang [at] yale.edu
+description: I am a PhD student in Computer Science at Yale University. My research interests include digital heritage, VR/AR, 3D graphics, visual perception, and artificial intelligence. Before coming to Yale, I received B.S. (Summa Cum Laude) from Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University in 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://feixue94.github.io/xuefei94.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zachzeyuwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # linkedin_username: zachzeyuwang
 # github_username:  zachzeyuwang
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

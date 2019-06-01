@@ -1,0 +1,202 @@
+{
+    "name": "Knowledge Tree",
+    "children": [{
+        "name": "Mathematics",
+        "children": [{
+            "name": "Mathematical Analysis",
+            "size": 1000
+        }, {
+            "name": "Advanced Algebra",
+            "size": 1000
+        }, {
+            "name": "Numerical Methods",
+            "size": 1000
+        }, {
+            "name": "Statistics",
+            "children": [{
+                "name": "Probability Theory",
+                "size": 1000
+            }, {
+                "name": "Data Analysis",
+                "size": 1000
+            }, {
+                "name": "Stochastic Processes",
+                "size": 1000
+            }, {
+                "name": "Probabilistic Graph Models",
+                "size": 1000
+            }]
+        }, {
+            "name": "Discrete Mathematics",
+            "children": [{
+                "name": "Set Theory and Graph Theory",
+                "size": 1000
+            }, {
+                "name": "Algebraic Structures and Combinatorial Mathematics",
+                "size": 1000
+            }, {
+                "name": "Mathematical Logic",
+                "size": 1000
+            }]
+        }, {
+            "name": "Optimization Techniques",
+            "size": 1000
+        }]
+    }, {
+        "name": "Physics",
+        "children": [{
+            "name": "Mechanics",
+            "size": 1000
+        }, {
+            "name": "Electromagnetism",
+            "size": 1000
+        }]
+    }, {
+        "name": "Chemistry",
+        "children": [{
+            "name": "Elemental Chemistry",
+            "size": 1000
+        }, {
+            "name": "Inorganic Chemistry",
+            "size": 1000
+        }, {
+            "name": "Organic Chemistry",
+            "size": 1000
+        }, {
+            "name": "Analytical Chemistry",
+            "size": 1000
+        }, {
+            "name": "Electrochemistry",
+            "size": 1000
+        }, {
+            "name": "Crystal Chemistry",
+            "size": 1000
+        }]
+    }, {
+        "name": "Biology",
+        "children": [{
+            "name": "Ethology",
+            "size": 1000
+        }, {
+            "name": "Neuroscience",
+            "size": 1000
+        }]
+    }, {
+        "name": "Psychology",
+        "children": [{
+            "name": "The Brain and Cognitice Science",
+            "size": 1000
+        }, {
+            "name": "Computational Perception and Scene Analysis",
+            "size": 1000
+        }]
+    }, {
+        "name": "Electronics",
+        "children": [{
+            "name": "Microelectronics and Circuits",
+            "size": 1000
+        }, {
+            "name": "Design and Experiments of Digital Logic",
+            "size": 1000
+        }, {
+            "name": "Signals and Systems",
+            "size": 1000
+        }]
+    }, {
+        "name": "Computer Science",
+        "children": [{
+            "name": "Machine Intelligence (AI)",
+            "children": [{
+                "name": "Machine Perception Laboratory",
+                "children": [{
+                    "name": "Auditory Information Processing",
+                    "size": 1000
+                }]
+            }, {
+                "name": "Machine Learning",
+                "children": [{
+                    "name": "Data Mining",
+                    "size": 1000
+                }, {
+                    "name": "Pattern Recognition",
+                    "size": 1000
+                }, {
+                    "name": "Deep Learning",
+                    "size": 1000
+                }]
+            }, {
+                "name": "Intelligent Robotics",
+                "children": [{
+                    "name": "Theory of Automatic Control",
+                    "size": 1000
+                }]
+            }, {
+                "name": "Computer Vision",
+                "children": [{
+                    "name": "Digital Image Processing",
+                    "size": 1000
+                }, {
+                    "name": "3D Visual Information Processing",
+                    "size": 1000
+                }, {
+                    "name": "Computational Vision and Biological Perception",
+                    "size": 1000
+                }]
+            }, {
+                "name": "Computer Graphics",
+                "children": [{
+                    "name": "Digital Media Technology",
+                    "size": 1000
+                }, {
+                    "name": "Human Computer Interaction",
+                    "size": 1000
+                }, {
+                    "name": "Visualization and Visual Computing",
+                    "size": 1000
+                }]
+            }]
+        }, {
+            "name": "Theory",
+            "children": [{
+                "name": "Theory of Computation",
+                "size": 1000
+            }, {
+                "name": "Computer Systems",
+                "size": 1000
+            }, {
+                "name": "Information Theory",
+                "size": 1000
+            }, {
+                "name": "Data Structures",
+                "size": 1000
+            }, {
+                "name": "Algorithm Design and Analysis",
+                "size": 1000
+            }, {
+                "name": "Randomized Algorithms",
+                "size": 1000
+            }, {
+                "name": "Software Analysis and Verification",
+                "size": 1000
+            }]
+        }, {
+            "name": "Programming",
+            "children": [{
+                "name": "Object-Oriented Programming",
+                "size": 1000
+            }, {
+                "name": "Software Engineering",
+                "size": 1000
+            }, {
+                "name": "C/C++, Python, Java, Matlab, R",
+                "size": 1000
+            }, {
+                "name": "OpenCV, OpenGL, Qt, VTK, TensorFlow",
+                "size": 1000
+            }, {
+                "name": "JavaScript, HTML, CSS",
+                "size": 1000
+            }]
+        }]
+    }]
+}
