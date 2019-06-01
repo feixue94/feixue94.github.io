@@ -41,7 +41,7 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/beyondtracking.jpg" width="200px"/>
+		<img src="assets/images/guidedfeature.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
@@ -60,7 +60,7 @@ layout: page_no_title
 	<td style="border:0px">
 		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
 		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
-		<i>ACCV</i>, 2017<br>
+		<i>ACCV</i>, 2018<br>
 		<a href="https://www.researchgate.net/publication/318888522_An_Introductory_Video_Generator_for_Disseminating_Cultural_Heritage_Projects">[pdf]</a>
 		<a onclick="copyBibTeX(6)">[bibtex]</a>
 	</td>
