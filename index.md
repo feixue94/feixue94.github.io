@@ -12,10 +12,8 @@ layout: page_no_title
 	<td style="border:0px">
 		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
 		Before coming to Yale, I received the B.S. degree (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
-		<a href="http://graphics.cs.yale.edu/site/">[Yale Graphics Group]</a><br>
-		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
-		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a>
-		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a>
+		<a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception, Peking University]</a><br>
+		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a>
 	</td>
 </tr>
 </table>
@@ -30,7 +28,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
-		<i>CVPR</i>, 2019<br>
+		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
 		<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
@@ -46,7 +44,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
 		Guided Feature Selection for Deep Visual Odometry<br>
-		<i>ACCV</i>, 2018<br>
+		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
 		<a href="https://arxiv.org/pdf/1811.09935.pdf">[pdf]</a>
 		<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
 		<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
@@ -60,7 +58,7 @@ layout: page_no_title
 	<td style="border:0px">
 		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
 		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
-		<i>ACCV</i>, 2018<br>
+		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
 		<a href="https://www.researchgate.net/publication/318888522_An_Introductory_Video_Generator_for_Disseminating_Cultural_Heritage_Projects">[pdf]</a>
 		<a onclick="copyBibTeX(6)">[bibtex]</a>
 	</td>
