@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/fei.jpg" width="800px"/>
+		<img src="assets/images/fei.jpg" width="400px"/>
 	</td>
 	<td style="border:0px">
 		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
@@ -55,7 +55,7 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/cherob2.jpg" width="200px"/>
+		<img src="assets/images/continuoustime.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
