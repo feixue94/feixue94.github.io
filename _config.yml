@@ -13,20 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zach Zeyu Wang
-email: zeyu.wang [at] yale.edu
-description: I am a PhD student in Computer Science at Yale University. My research interests include digital heritage, VR/AR, 3D graphics, visual perception, and artificial intelligence. Before coming to Yale, I received B.S. (Summa Cum Laude) from Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University in 2016.
+title: Fei Xue
+email: fei [at] pku.edu.cn
+description: I am a master student from Peking University, Beijing, China.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zachzeyuwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# linkedin_username: zachzeyuwang
-# github_username:  zachzeyuwang
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  xuefei94
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
