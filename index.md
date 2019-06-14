@@ -31,9 +31,6 @@ layout: page_no_title
 		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
-		#<a href="https://youtu.be/qqzOLu47alw">[video]</a>
-		#<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
-		#<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
 		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
@@ -46,8 +43,6 @@ layout: page_no_title
 		Guided Feature Selection for Deep Visual Odometry<br>
 		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
 		<a href="https://arxiv.org/pdf/1811.09935.pdf">[pdf]</a>
-		#<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
-		#<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
 	</td>
 </tr>
 <tr style="border:0px">
