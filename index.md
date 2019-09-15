@@ -31,7 +31,6 @@ layout: page_no_title
 		Local Supports Global: Deep Camera Relocalization with Sequence Enhancement<br>
 		<i>IEEE International Conference on Computer Vision (ICCV)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1908.04391.pdf">[pdf]</a>
-		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 
@@ -44,7 +43,6 @@ layout: page_no_title
 		Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry<br>
 		<i>IEEE International Conference on Computer Vision (ICCV)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1908.08704.pdf">[pdf]</a>
-		#<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 
@@ -69,7 +67,6 @@ layout: page_no_title
 		<b>Fei Xue</b>, Xin Wang, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Visual Odometry with Deep Bidirectional Recurrent Neural Networks<br>
 		<i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i>, 2019<br>
-		#<a href="https://arxiv.org/pdf/1908.04391.pdf">[pdf]</a>
 		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
