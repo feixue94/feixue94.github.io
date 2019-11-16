@@ -56,6 +56,7 @@ layout: page_no_title
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<span style="color:red">Oral Presentation</span>
+		<a href=""[code]</a>
 	</td>
 </tr>
 
@@ -66,8 +67,10 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Visual Odometry with Deep Bidirectional Recurrent Neural Networks<br>
+		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
 		<i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i>, 2019<br>
 		<span style="color:red">Oral Presentation</span>
+		<a href=""[code]</a>
 	</td>
 </tr>
 
@@ -91,6 +94,7 @@ layout: page_no_title
 		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
 		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
 		<a href="https://www.researchgate.net/publication/332103736_Continuous-time_Stereo_Visual_Odometry_Based_on_Dynamics_Model">[pdf]</a>
+		<a href=""[code]</a>
 	</td>
 </tr>
 <tr style="border:0px">
