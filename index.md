@@ -68,8 +68,8 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Visual Odometry with Deep Bidirectional Recurrent Neural Networks<br>
-		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
 		<i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i>, 2019<br>
+		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
 		<span style="color:red">Oral Presentation</span>
 		<a href="https://feixue94.github.io/">[code]</a>
 	</td>
