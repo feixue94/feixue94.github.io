@@ -24,6 +24,31 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/glnet.JPG" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Fei Xue</b>, Xin Wu, Shaojun Cai, Junqiu Wang<br>
+		Learning Multi-view Camera Relocalization with Graph Neural Networks<br>
+		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		<a href="https://feixue94.github.io/">[code]</a>
+	</td>
+</tr>
+
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/online.JPG" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br><br>
+		Self-Supervised Deep Visual Odometry with Online Adaptation<br>
+		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		<span style="color:red">Oral Presentation</span>
+	</td>
+</tr>
+
+
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/local.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
@@ -56,8 +81,8 @@ layout: page_no_title
 		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
-		<span style="color:red">Oral Presentation</span>
 		<a href="https://feixue94.github.io/">[code]</a>
+		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 
@@ -70,8 +95,8 @@ layout: page_no_title
 		Visual Odometry with Deep Bidirectional Recurrent Neural Networks<br>
 		<i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i>, 2019<br>
 		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
-		<span style="color:red">Oral Presentation</span>
 		<a href="https://feixue94.github.io/">[code]</a>
+		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 
