@@ -24,12 +24,25 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/beyondtracking.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Fei Xue</b>, Xin Wang, Junqiu Wang, Hongbin Zha<br>
+		Deep Visual Odometry with Adaptive Memory<br>
+		<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2020<br>
+	</td>
+</tr>
+
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/glnet.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wu, Shaojun Cai, Junqiu Wang<br>
 		Learning Multi-view Camera Relocalization with Graph Neural Networks<br>
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xue_Learning_Multi-View_Camera_Relocalization_With_Graph_Neural_Networks_CVPR_2020_paper.pdf">[pdf]</a>
+		<a href="https://www.youtube.com/watch?v=WJ4b3fVNHLo">[video]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 	</td>
 </tr>
@@ -43,6 +56,8 @@ layout: page_no_title
 		Self-Supervised Deep Visual Odometry with Online Adaptation<br>
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
 		<span style="color:red">Oral Presentation</span>
+		<a href="https://arxiv.org/pdf/2005.06136.pdf">[pdf]</a>
+		<a href="https://www.youtube.com/watch?v=yK9M5giH84w">[video]</a>
 	</td>
 </tr>
 
