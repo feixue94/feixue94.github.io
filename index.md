@@ -63,7 +63,7 @@ layout: page_no_title
 		<img src="assets/images/online.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br><br>
+		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br>
 		Self-Supervised Deep Visual Odometry with Online Adaptation<br>
 		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
 		<span style="color:red">Oral Presentation</span>
