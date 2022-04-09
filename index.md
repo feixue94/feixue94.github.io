@@ -10,7 +10,8 @@ layout: page_no_title
 		<img src="assets/images/fei.jpg" width="600px"/>
 	</td>
 	<td style="border:0px">
-	    I am a master student under supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at Key Laboratory of Machine Perception, Peking University. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br><br>
+		I am a PhD candidate in Machine Intelligence Laboratory, University of Cambridge and work with Prof. <a href="https://mi.eng.cam.ac.uk/~cipolla/biography.htm"> Roberto Cipolla</a> and Dr. <a href="http://mi.eng.cam.ac.uk/~ib255/"> Ignas Budvytis</a>. My research interests include SLAM, visual odometry, relocalization, and visual perception.
+	    In 2016-2019, I was a master student under supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at Key Laboratory of Machine Perception, Peking University. <br><br>
 		Before that, I received the B.S. degree in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception, Peking University]</a><br>
 		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a>
@@ -24,12 +25,23 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/lbr.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
+		Efficient Large-scale Localization by Global Instance Recognition<br>
+		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
+	</td>
+</tr>
+
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Junqiu Wang, Hongbin Zha<br>
 		Deep Visual Odometry with Adaptive Memory<br>
-		<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2020<br>
+		<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022<br>
 	</td>
 </tr>
 
