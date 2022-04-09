@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/fei.jpg" width="600px"/>
+		<img src="assets/images/fei.JPG" width="600px"/>
 	</td>
 	<td style="border:0px">
 		I am a PhD candidate in <a href="http://mi.eng.cam.ac.uk/">[Machine Intelligence Laboratory]</a>, University of Cambridge and work with Prof. <a href="https://mi.eng.cam.ac.uk/~cipolla/biography.htm"> Roberto Cipolla</a> and Dr. <a href="http://mi.eng.cam.ac.uk/~ib255/"> Ignas Budvytis</a>. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br>
