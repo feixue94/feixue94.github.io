@@ -27,9 +27,10 @@ layout: page_no_title
 		<img src="assets/images/lbr.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
 		Efficient Large-scale Localization by Global Instance Recognition<br>
+		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
+		Keywords: relocalization, semantics, instances<br>
 	</td>
 </tr>
 
@@ -38,9 +39,10 @@ layout: page_no_title
 		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Xin Wang, Junqiu Wang, Hongbin Zha<br>
 		Deep Visual Odometry with Adaptive Memory<br>
+		<b>Fei Xue</b>, Xin Wang, Junqiu Wang, Hongbin Zha<br>
 		<i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022<br>
+		Keywords: learning-based visual odometry, memory<br>
 	</td>
 </tr>
 
@@ -49,9 +51,10 @@ layout: page_no_title
 		<img src="assets/images/glnet.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Xin Wu, Shaojun Cai, Junqiu Wang<br>
 		Learning Multi-view Camera Relocalization with Graph Neural Networks<br>
+		<b>Fei Xue</b>, Xin Wu, Shaojun Cai, Junqiu Wang<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		Keywords: GNN, relocalization, multi-view images<br>
 		<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xue_Learning_Multi-View_Camera_Relocalization_With_Graph_Neural_Networks_CVPR_2020_paper.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=WJ4b3fVNHLo">[video]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
@@ -63,9 +66,10 @@ layout: page_no_title
 		<img src="assets/images/online.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br>
 		Self-Supervised Deep Visual Odometry with Online Adaptation<br>
+		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		Keywords: visual odometry, online learning, multi-view images<br>
 		<span style="color:red">Oral Presentation</span>
 		<a href="https://arxiv.org/pdf/2005.06136.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=yK9M5giH84w">[video]</a>
@@ -78,9 +82,10 @@ layout: page_no_title
 		<img src="assets/images/local.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Xin Wang, Zike Yan, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Local Supports Global: Deep Camera Relocalization with Sequence Enhancement<br>
+		<b>Fei Xue</b>, Xin Wang, Zike Yan, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		<i>International Conference on Computer Vision (ICCV)</i>, 2019<br>
+		Keywords: relocalization, multi-view images<br>
 		<a href="https://arxiv.org/pdf/1908.04391.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 	</td>
@@ -91,9 +96,10 @@ layout: page_no_title
 		<img src="assets/images/sequential.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		Shunkai Li, <b>Fei Xue</b>, Xin Wang, Zike Yan, Hongbin Zha<br>
 		Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry<br>
+		Shunkai Li, <b>Fei Xue</b>, Xin Wang, Zike Yan, Hongbin Zha<br>
 		<i>International Conference on Computer Vision (ICCV)</i>, 2019<br>
+		Keywords: self-supervised visual odometry, GAN<br>
 		<a href="https://arxiv.org/pdf/1908.08704.pdf">[pdf]</a>
 	</td>
 </tr>
@@ -103,9 +109,10 @@ layout: page_no_title
 		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
+		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
+		Keywords: learning-based visual odometry, memory<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 		<span style="color:red">Oral Presentation</span>
@@ -117,9 +124,10 @@ layout: page_no_title
 		<img src="assets/images/brnnvo.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Xin Wang, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Visual Odometry with Deep Bidirectional Recurrent Neural Networks<br>
+		<b>Fei Xue</b>, Xin Wang, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		<i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i>, 2019<br>
+		Keywords: learning-based visual odometry, LSTM<br>
 		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 		<span style="color:red">Oral Presentation</span>
@@ -131,9 +139,10 @@ layout: page_no_title
 		<img src="assets/images/guidedfeature.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
 		Guided Feature Selection for Deep Visual Odometry<br>
+		<b>Fei Xue</b>, Qiuyuan Wang, Xin Wang, Wei Dong, Junqiu Wang, Hongbin Zha<br>
 		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
+		Keywords: learning-based visual odometry, motion-separation, guidance<br>
 		<a href="https://arxiv.org/pdf/1811.09935.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 	</td>
@@ -143,9 +152,10 @@ layout: page_no_title
 		<img src="assets/images/continuoustime.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
 		Continuous-time Stereo Visual Odometry Based on Dynamics Model<br>
+		Xin Wang, <b>Fei Xue</b>, Zike Yan, Wei Dong, Qiuyuan Wang, Hongbin Zha<br>
 		<i>Asian Conference on Computer Vision (ACCV)</i>, 2018<br>
+		Keywords: geometric visual odometry, dynamics model<br>
 		<a href="https://www.researchgate.net/publication/332103736_Continuous-time_Stereo_Visual_Odometry_Based_on_Dynamics_Model">[pdf]</a>
 	</td>
 </tr>
