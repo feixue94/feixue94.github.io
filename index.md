@@ -70,9 +70,9 @@ layout: page_no_title
 		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
 		Keywords: visual odometry, online learning, multi-view images<br>
-		<span style="color:red">Oral Presentation</span>
 		<a href="https://arxiv.org/pdf/2005.06136.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=yK9M5giH84w">[video]</a>
+		<span style="color:red">Oral Presentation</span>
 	</td>
 </tr>
 
