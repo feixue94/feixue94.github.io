@@ -160,4 +160,3 @@ layout: page_no_title
 	</td>
 </tr>
 </table>
-<div id="toast">BibTeX copied to clipboard</div>
