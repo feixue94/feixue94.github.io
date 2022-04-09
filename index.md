@@ -150,31 +150,6 @@ layout: page_no_title
 		<a href="https://www.researchgate.net/publication/332103736_Continuous-time_Stereo_Visual_Odometry_Based_on_Dynamics_Model">[pdf]</a>
 	</td>
 </tr>
-<tr style="border:0px">
-	<td style="border:0px">
-		<img src="assets/images/horopter.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		Zeyu Wang, Xiaohan Jin, <b>Fei Xue</b>, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
-		Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency<br>
-		<i>ACM Conference on Virtual Reality Software and Technology (VRST)</i>, 2016<br>
-		<a href="https://www.researchgate.net/publication/308794549_Perceptual_Enhancement_for_Stereoscopic_Videos_Based_on_Horopter_Consistency">[pdf]</a>
-		<a href="https://youtu.be/EMN9zlDqXlM">[video]</a>
-	</td>
-</tr>
-<tr style="border:0px">
-	<td style="border:0px">
-		<img src="assets/images/panorama.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		Zeyu Wang, Xiaohan Jin, <b>Fei Xue</b>, Xin He, Renju Li, Hongbin Zha<br>
-		Panorama to Cube: A Content-Aware Representation Method<br>
-		<i>ACM SIGGRAPH Asia Technical Briefs</i>, 2015<br>
-		<a href="https://www.researchgate.net/publication/281589647_Panorama_to_Cube_A_Content-Aware_Representation_Method">[pdf]</a>
-		<a href="https://youtu.be/wJy2ZAhunP0">[video]</a>
-		<a href="https://github.com/zachzeyuwang/Panorama-to-Cube">[code]</a>
-	</td>
-</tr>
 </table>
 <div id="toast">BibTeX copied to clipboard</div>
 {% raw %}
