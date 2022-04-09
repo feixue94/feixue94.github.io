@@ -29,7 +29,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
 		Efficient Large-scale Localization by Global Instance Recognition<br>
-		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
 	</td>
 </tr>
 
@@ -40,7 +40,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Junqiu Wang, Hongbin Zha<br>
 		Deep Visual Odometry with Adaptive Memory<br>
-		<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022<br>
+		<i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2022<br>
 	</td>
 </tr>
 
@@ -51,7 +51,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wu, Shaojun Cai, Junqiu Wang<br>
 		Learning Multi-view Camera Relocalization with Graph Neural Networks<br>
-		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
 		<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xue_Learning_Multi-View_Camera_Relocalization_With_Graph_Neural_Networks_CVPR_2020_paper.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=WJ4b3fVNHLo">[video]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
@@ -65,7 +65,7 @@ layout: page_no_title
 	<td style="border:0px">
 		Shunkai Li, Xin Wang, Yingdian Cao, <b>Fei Xue</b>,  Zike Yan, Hongbin Zha<br>
 		Self-Supervised Deep Visual Odometry with Online Adaptation<br>
-		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2020<br>
 		<span style="color:red">Oral Presentation</span>
 		<a href="https://arxiv.org/pdf/2005.06136.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=yK9M5giH84w">[video]</a>
@@ -80,7 +80,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Zike Yan, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Local Supports Global: Deep Camera Relocalization with Sequence Enhancement<br>
-		<i>IEEE International Conference on Computer Vision (ICCV)</i>, 2019<br>
+		<i>International Conference on Computer Vision (ICCV)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1908.04391.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 	</td>
@@ -93,7 +93,7 @@ layout: page_no_title
 	<td style="border:0px">
 		Shunkai Li, <b>Fei Xue</b>, Xin Wang, Zike Yan, Hongbin Zha<br>
 		Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry<br>
-		<i>IEEE International Conference on Computer Vision (ICCV)</i>, 2019<br>
+		<i>International Conference on Computer Vision (ICCV)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1908.08704.pdf">[pdf]</a>
 	</td>
 </tr>
@@ -105,7 +105,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Fei Xue</b>, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha<br>
 		Beyond Tracking: Selecting Memeory and Refining Poses for Deep Visual Ododmetry<br>
-		<i>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
 		<span style="color:red">Oral Presentation</span>
