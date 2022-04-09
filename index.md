@@ -24,7 +24,7 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/lbr.jpg" width="200px"/>
+		<img src="assets/images/lbr.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
 		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
