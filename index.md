@@ -11,7 +11,7 @@ layout: page_no_title
 	</td>
 	<td style="border:0px">
 		I am a PhD candidate in <a href="http://mi.eng.cam.ac.uk/">[Machine Intelligence Laboratory]</a>, University of Cambridge and work with Prof. <a href="https://mi.eng.cam.ac.uk/~cipolla/biography.htm"> Roberto Cipolla</a> and Dr. <a href="http://mi.eng.cam.ac.uk/~ib255/"> Ignas Budvytis</a>. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br>
-	    In 2016-2019, I was a master student under supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at <a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception]</a>, Peking University.<br>
+	    In 2016-2019, I was a master student under the supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at <a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception]</a>, Peking University.<br>
 		Before that, I received the B.S. degree in machine intelligence from School of EECS, Peking University in 2016.<br>
 		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a>
 	</td>
