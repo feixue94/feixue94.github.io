@@ -10,13 +10,16 @@ layout: page_no_title
 		<img src="assets/images/fei.JPG" width="600px"/>
 	</td>
 	<td style="border:0px">
-		I am a PhD candidate in <a href="http://mi.eng.cam.ac.uk/">[Machine Intelligence Laboratory]</a>, University of Cambridge and work with Prof. <a href="https://mi.eng.cam.ac.uk/~cipolla/biography.htm"> Roberto Cipolla</a> and Dr. <a href="http://mi.eng.cam.ac.uk/~ib255/"> Ignas Budvytis</a>. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br>
-	    In 2016-2019, I was a master student under the supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at <a href="http://www.klmp.pku.edu.cn/">[Key Laboratory of Machine Perception]</a>, Peking University.<br>
+		I am a PhD candidate in <a href="http://mi.eng.cam.ac.uk/">Machine Intelligence Laboratory</a>, University of Cambridge and work with Prof. <a href="https://mi.eng.cam.ac.uk/~cipolla/biography.htm"> Roberto Cipolla</a> and Dr. <a href="http://mi.eng.cam.ac.uk/~ib255/"> Ignas Budvytis</a>. My research interests include SLAM, visual odometry, relocalization, and visual perception.<br>
+	    In 2016-2019, I was a master student under the supervision of Prof. <a href="http://www.cis.pku.edu.cn/vision/Visual&Robot/people/zha%20hongbin/zha%20hongbin.htm">Hongbin Zha</a> in computer vision at <a href="http://www.klmp.pku.edu.cn/">Key Laboratory of Machine Perception</a>, Peking University.<br>
 		Before that, I received the B.S. degree in machine intelligence from School of EECS, Peking University in 2016.<br>
-		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a>
+		<a href="https://scholar.google.ca/citations?user=G2sYDPkAAAAJ&hl=en">[Google Scholar]</a><a href="https://github.com/feixue94">Github</a>
 	</td>
 </tr>
 </table>
+
+## Services
+* Reviewer of IROS, WACV, CVPR, ECCV, ICLR 
 
 
 ## Publications
@@ -72,7 +75,7 @@ layout: page_no_title
 		Keywords: visual odometry, online learning, multi-view images<br>
 		<a href="https://arxiv.org/pdf/2005.06136.pdf">[pdf]</a>
 		<a href="https://www.youtube.com/watch?v=yK9M5giH84w">[video]</a>
-		<span style="color:red">Oral Presentation</span>
+		<span style="color:red">Oral</span>
 	</td>
 </tr>
 
@@ -115,7 +118,7 @@ layout: page_no_title
 		Keywords: learning-based visual odometry, memory<br>
 		<a href="https://arxiv.org/pdf/1904.01892.pdf">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
-		<span style="color:red">Oral Presentation</span>
+		<span style="color:red">Oral</span>
 	</td>
 </tr>
 
@@ -130,7 +133,7 @@ layout: page_no_title
 		Keywords: learning-based visual odometry, LSTM<br>
 		<a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_20">[pdf]</a>
 		<a href="https://feixue94.github.io/">[code]</a>
-		<span style="color:red">Oral Presentation</span>
+		<span style="color:red">Oral</span>
 	</td>
 </tr>
 

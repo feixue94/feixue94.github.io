@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fei Xue
-email: feixue[at]pku[dot]edu[dot]cn
-description: I am a master student from Peking University, Beijing, China.
+email: fx221[at]cam[dot]ac[dot]uk
+description: I am a PhD student from University of Cambridge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
