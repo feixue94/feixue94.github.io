@@ -27,6 +27,18 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/lbr.JPG" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Efficient Large-scale Localization by Global Instance Recognition<br>
+		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
+		Keywords: large-scale relocalization, recognition, global instance<br>
+	</td>
+</tr>
+
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/beyondtracking.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
