@@ -19,7 +19,7 @@ layout: page_no_title
 </table>
 
 ## Services
-* Reviewer of IROS, WACV, CVPR, ECCV, ICLR 
+* Reviewer of IROS, WACV, CVPR, ECCV, ICLR, NeurIPS
 
 
 ## Publications
@@ -34,6 +34,8 @@ layout: page_no_title
 		<b>Fei Xue</b>, Ignas Budvytisy, Daniel Olmeda Reinoz, Roberto Cipolla<br>
 		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022<br>
 		Keywords: large-scale relocalization, recognition, global instance<br>
+		<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Efficient_Large-Scale_Localization_by_Global_Instance_Recognition_CVPR_2022_paper.pdf">[pdf]</a>
+		<a href="https://github.com/feixue94/lbr/tree/master">[code]</a>
 	</td>
 </tr>
 
