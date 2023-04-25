@@ -19,7 +19,8 @@ layout: page_no_title
 </table>
 
 ## Services
-* Reviewer of IROS, WACV, CVPR, ECCV, ICCV, TPAMI, PR, ICLR, NeurIPS, ICML
+* Conference reviewer: IROS, WACV, CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML
+* Journal reviewer: PR, TPAMI
 
 
 ## Publications
