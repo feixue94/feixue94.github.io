@@ -28,6 +28,35 @@ layout: page_no_title
 
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/imp.JPG" width="200px"/>
+	</td>
+	<td style="border:0px">
+		IMP: Iterative Matching and Pose Estimation with Adaptive Pooling <br>
+		<b>Fei Xue</b>, Ignas Budvytisy, Roberto Cipolla<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023<br>
+		Keywords: iterative matching and pose estimation<br>
+		<a href="https://arxiv.org/abs/2304.14837">[pdf]</a>
+		<a href="https://github.com/feixue94/imp-release">[code]</a>
+	</td>
+</tr>
+
+
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/sfd2.JPG" width="200px"/>
+	</td>
+	<td style="border:0px">
+		SFD2: Semantic-guided Feature Detection and Description  <br>
+		<b>Fei Xue</b>, Ignas Budvytisy, Roberto Cipolla<br>
+		<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023<br>
+		Keywords: semantic-augmented local features<br>
+		<a href="https://arxiv.org/abs/2304.14845">[pdf]</a>
+		<a href="https://github.com/feixue94/sfd2">[code]</a>
+	</td>
+</tr>
+
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/lbr.JPG" width="200px"/>
 	</td>
 	<td style="border:0px">
